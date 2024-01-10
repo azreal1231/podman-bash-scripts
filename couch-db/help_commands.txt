@@ -1,0 +1,7 @@
+Available commands:
+  create  - Create the CouchDB container.
+  start   - Start the CouchDB container if it is stopped.
+  stop    - Stop the CouchDB container if it is running.
+  restart - Restart the CouchDB container.
+  delete  - Stop and delete the CouchDB container after confirmation.
+  help    - Display this help information.
